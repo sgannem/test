@@ -160,7 +160,7 @@ because we want to be to able to execute mvn sonar:sonar without passing a profi
 		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
-			<version>20160810</version>
+			<version>20230227</version>
 		</dependency>
 
 		<!--- already used in sp-broker <dependency> <groupId>com.nxp.mifare</groupId> 
